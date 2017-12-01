@@ -34,7 +34,7 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.psspl.cicd", appContext.getPackageName());
 
-
+        //test
         Espresso.onView(ViewMatchers.withId(R.id.eteditbxo)).perform(ViewActions.clearText());
         Espresso.onView(ViewMatchers.withId(R.id.eteditbxo)).perform(ViewActions.typeText("Test"));
         Thread.sleep(2000);
