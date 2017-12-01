@@ -12,7 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         eteditbxo=(EditText) findViewById(R.id.eteditbxo);
 
-        // This tested
-       // sdfsd
     }
 }
