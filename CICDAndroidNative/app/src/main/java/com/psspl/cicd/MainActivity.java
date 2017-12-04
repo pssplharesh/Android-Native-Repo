@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        TestFairy.begin(this, "e052acbf9c9ed810d85a9bdb6e28c54d8f3e211c");
+        TestFairy.begin(this, "6681215ff9cea86f7d600c77108bb413c8022890");
         eteditbxo=(EditText) findViewById(R.id.eteditbxo);
 
 
