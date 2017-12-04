@@ -11,6 +11,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         eteditbxo=(EditText) findViewById(R.id.eteditbxo);
+        /*dkljdfgjdfg
+        * gdfg
+        * dfgdfg
+        * dfg
+        * dfg
+        * dfg
+        * dfg
+        * dfg
+        * */
 
     }
 }
